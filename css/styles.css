@@ -6,5 +6,28 @@ li {font-size: 70%;
 
 }
 p {
+  text-align: center;
   font-size: 75%;
+  font-style: italic;
+}
+
+ul {
+  float: left;
+  text-align: left;
+}
+
+ul-1 {
+  float: left;
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: lightgrey;
+  
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
